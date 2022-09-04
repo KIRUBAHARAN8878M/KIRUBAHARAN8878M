@@ -7,8 +7,6 @@
 <h1 align="center">Hi 👋, I'm KIRUBAHARAN M</h1>
 <h3 align="center">A passionate MERN STACK developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirubaharan8878m" alt="kirubaharan8878m" /></a> </p>
-
 - 🌱 I’m currently learning **MERN STACK DEVELOPEMENT**
 
 - 📫 How to reach me **kirubaharan8878m@gmail.com**
