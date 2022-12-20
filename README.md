@@ -6,9 +6,15 @@
 -->
  [![MasterHead](https://miro.medium.com/max/900/0*UqGyYmWCRQnjLzSk.jpg)](https://KIRUBAHRAN8878M.io)
  <h1 align="center">Hi 👋, I'm KIRUBAHARAN M</h1>
-<h3 align="center">A passionate MERN STACK developer from India</h3>
+<h3 align="center">I skilled at MERN full stack to build a responsive web application. And I'm seeking a beginner role to enhance and explore my technical knowledge.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KIRUBAHARAN8878M&label=Profile%20views&color=0e75b6&style=flat" alt="KIRUBAHARAN8878M" /> </p>
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👨‍💻 All of my projects are available at [https://kirubaharan-m-portfolio.netlify.app](https://kirubaharan-m-portfolio.netlify.app)
+
+- 💬 Ask me about **React.js, Node.js, Mongo Db and Express**
 
 - 📫 How to reach me **kirubaharan8878m@gmail.com**
 
