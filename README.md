@@ -4,7 +4,16 @@
 **KIRUBAHARAN8878M/KIRUBAHARAN8878M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
- [![MasterHead](https://miro.medium.com/max/900/0*UqGyYmWCRQnjLzSk.jpg)](https://KIRUBAHRAN8878M.io)
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+</p>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=440&height=60&lines=%F0%9F%91%8B+Hi+I+am+Raghul;Full+Stack+Developer;Nice+to+meet+you" alt="Typing SVG" />
+    </a>
+</div>
+
  <h1 align="center">Hi 👋, I'm KIRUBAHARAN M</h1>
 <h3 align="center">I skilled at MERN full stack to build a responsive web application. And I'm seeking a beginner role to enhance and explore my technical knowledge.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
