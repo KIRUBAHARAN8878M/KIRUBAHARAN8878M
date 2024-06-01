@@ -10,20 +10,19 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=440&height=60&lines=%F0%9F%91%8B+Hi+👋,+ +I'm+ +KIRUBAHARAN +M;Full+Stack+Developer;Nice+to+meet+you" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=440&height=60&lines=%F0%9F%91%8B+Hi+I'm+KIRUBAHARAN +M;Full+Stack+Developer;Nice+to+meet+you" alt="Typing SVG" />
     </a>
 </div>
 
- <h1 align="center"></h1>
-<h3 align="center">I skilled at MERN full stack to build a responsive web application. And I'm seeking a beginner role to enhance and explore my technical knowledge.</h3>
+<h3 align="center">I bring over one year of hands-on experience in full stack web development. Proficient in front-end programming, I specialize in crafting visually engaging interfaces using HTML, CSS, JavaScript, Bootstrap, and React.js. My strong database skills include working with MySQL, MongoDB, and PostgreSQL. I am passionate about developing efficient and user-friendly web applications, implementing data management features, and enhancing task management capabilities. I have collaborated with team members to ensure seamless integration and scalability, prioritizing security and compliance standards throughout the development process.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KIRUBAHARAN8878M&label=Profile%20views&color=0e75b6&style=flat" alt="KIRUBAHARAN8878M" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **LAHTP (Learn the art of hacking through programming) - LEGACY**
 
 - 👨‍💻 All of my projects are available at [https://kirubaharan-m-portfolio.netlify.app](https://kirubaharan-m-portfolio.netlify.app)
 
-- 💬 Ask me about **React Js, Node Js, Mongo Db and Express Js**
+- 💬 Ask me about **React Js, Pyhton, Flask, Node Js, Mongo Db and Express Js, PostgreSql, MySql**
 
 - 📫 How to reach me **kirubaharan8878m@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1x1r3C7xgb3O4FJsOpLvUgqTt3tZXaXUa/view?usp=share_link](https://drive.google.com/file/d/1U2IUly6Ldmfz6gWcPju9KzY8dIXgyh58/view?usp=drive_link)
