@@ -10,11 +10,11 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=440&height=60&lines=%F0%9F%91%8B+Full+Stack+Developer;Nice+to+meet+you" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=440&height=60&lines=%F0%9F%91%8B+Hi+👋,+ +I'm+ +KIRUBAHARAN +M;Full+Stack+Developer;Nice+to+meet+you" alt="Typing SVG" />
     </a>
 </div>
 
- <h1 align="center">Hi 👋, I'm KIRUBAHARAN M</h1>
+ <h1 align="center"></h1>
 <h3 align="center">I skilled at MERN full stack to build a responsive web application. And I'm seeking a beginner role to enhance and explore my technical knowledge.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KIRUBAHARAN8878M&label=Profile%20views&color=0e75b6&style=flat" alt="KIRUBAHARAN8878M" /> </p>
