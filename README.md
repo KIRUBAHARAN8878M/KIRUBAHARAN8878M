@@ -77,7 +77,6 @@ I bring over one year of hands-on experience in full stack web development. Prof
 <hr>
 
 
-
 ### Stack
 
 <div align="center">
