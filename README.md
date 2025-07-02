@@ -20,7 +20,7 @@ I'm KIRUBAHARAN M, a Full Stack Developer passionate about shaping the future of
 
 #### About Me
 
-I bring over one year of hands-on experience in full stack web development. Proficient in front-end programming, I specialize in crafting visually engaging interfaces using HTML, CSS, JavaScript, Bootstrap, and React.js. My strong database skills include working with MySQL, MongoDB, and PostgreSQL. I am passionate about developing efficient and user-friendly web applications, implementing data management features, and enhancing task management capabilities. I have collaborated with team members to ensure seamless integration and scalability, prioritizing security and compliance standards throughout the development process.
+I bring over two year of hands-on experience in full stack web development. Proficient in front-end programming, I specialize in crafting visually engaging interfaces using HTML, CSS, JavaScript, Bootstrap, and React.js. My strong database skills include working with MySQL, MongoDB, and PostgreSQL. I am passionate about developing efficient and user-friendly web applications, implementing data management features, and enhancing task management capabilities. I have collaborated with team members to ensure seamless integration and scalability, prioritizing security and compliance standards throughout the development process.
 <hr>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KIRUBAHARAN8878M&label=Profile%20views&color=0e75b6&style=flat" alt="KIRUBAHARAN8878M" /> </p>
